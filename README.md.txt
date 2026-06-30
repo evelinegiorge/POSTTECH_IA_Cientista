@@ -27,3 +27,15 @@ Para reproduzir esta análise na sua máquina, siga os passos abaixo:
 3. Instale as bibliotecas necessárias (recomenda-se o uso de um ambiente virtual):
    `pip install -r requirements.txt`
 4. Execute os notebooks localizados na pasta `notebooks/` na ordem numérica indicada.
+
+## 🏆 Conclusões e Insights Finais
+Após a análise exploratória, concluímos que:
+* **Logística como prioridade:** O atraso na entrega é o principal determinante do NPS.
+* **Limiar Crítico:** Identificamos um ponto de ruptura de 2 dias de atraso, a partir do qual a satisfação do cliente cai drasticamente.
+* **Ação Recomendada:** Priorização do ajuste do SLA logístico e implementação de comunicação proativa para atrasos superiores a 2 dias.
+
+## 🎥 Apresentação Executiva
+Assista ao vídeo de apresentação do projeto: [https://drive.google.com/drive/folders/1jYCxHNLZwAB47S8n_kHGd9fphHnPw3ks?usp=sharing]
+
+## 📂 Relatórios e Apresentação
+* [Link para o PDF da Apresentação](/reports/Tech_Challenge_Fase1.pdf)
