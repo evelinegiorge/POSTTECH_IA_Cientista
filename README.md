@@ -35,7 +35,7 @@ Após a análise exploratória, concluímos que:
 * **Ação Recomendada:** Priorização do ajuste do SLA logístico e implementação de comunicação proativa para atrasos superiores a 2 dias.
 
 ## 🎥 Apresentação Executiva
-Assista ao vídeo de apresentação do projeto: [https://drive.google.com/drive/folders/1jYCxHNLZwAB47S8n_kHGd9fphHnPw3ks?usp=sharing]
+Assista ao vídeo de apresentação do projeto: https://drive.google.com/drive/folders/1jYCxHNLZwAB47S8n_kHGd9fphHnPw3ks?usp=sharing
 
 ## 📂 Relatórios e Apresentação
 * [Link para o PDF da Apresentação](/reports/Tech_Challenge_Fase1.pdf)
